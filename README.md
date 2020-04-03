@@ -8,6 +8,17 @@
 参考サイト：http://teachers-transfer.blog.jp/  
 教職員人事異動  
 
+# 一式
+https://github.com/GinSanaduki/TB3DS_Appendix/releases/download/V1.0.0/fullset.zip  
+上記をクリックしてダウンロードしてください。
+
+# Usage
+```bash
+
+gawk -f Scraper.awk
+
+```
+
 * 2020/04/04  
 どうも全件抽出してみたが、某女性教員と、減給で済んだあの教員は、まだ問題を起こした学校に在籍している形になっているように見える（つまり、一覧に名前がない）。  
 学校から別に移す話は、どこにいったやら？
